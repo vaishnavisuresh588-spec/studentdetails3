@@ -9,9 +9,9 @@ else:
   name = "vaishnavi"
   rollno = "14"
  print("no input given - using default values:")
- print("Script name:", script name)
- print("Student name:", name)
- print("Roll no:", rollno)
+  print("Script name:", script name)
+  print("Student name:", name)
+  print("Roll no:", rollno)
   
   
   
