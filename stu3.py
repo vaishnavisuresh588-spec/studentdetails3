@@ -8,10 +8,10 @@ else:
   script name = sys.argv[0]
   name = "vaishnavi"
   rollno = "14"
-print("no input given - using default values:")
-print("Script name:", script name)
-print("Student name:", name)
-print("Roll no:", rollno)
+ print("no input given - using default values:")
+ print("Script name:", script name)
+ print("Student name:", name)
+ print("Roll no:", rollno)
   
   
   
