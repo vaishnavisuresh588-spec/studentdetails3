@@ -7,10 +7,10 @@ if len(sys.argv) == 3:
     print("User provided input values:")
 else:
     script_name = sys.argv[0]
-    name = "vaishnavi"
-    rollno = "14"
-    print("No input given - using default values:")
+    name = "gagan"
+    rollno = "033"
+    print("No input given, using default values:")
 
-print("Script name:", script_name)
-print("Student name:", name)
-print("Roll no:", rollno)
+print("Script Name:", script_name)
+print("Student Name:", name)
+print("Roll Number:", rollno)
